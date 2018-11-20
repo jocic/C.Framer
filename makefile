@@ -3,7 +3,7 @@
 ##########################
 
 STANDARD = c++11
-OUTPUT   = builds/framer
+OUTPUT   = build/framer
 SOURCE   = src/framer.cpp
 
 ##################
